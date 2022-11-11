@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: [aqui va la connstring de mi cosmos db]
+      database: test-database
